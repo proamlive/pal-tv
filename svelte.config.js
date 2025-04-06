@@ -5,14 +5,14 @@ const config = {
   // ...
   kit: {
     // ...
-    paths: {
-      base: "/pal-tv",
-    },
+    // paths: {
+    //   base: "/pal-tv",
+    // },
     // ...
     adapter: adapterGhpages({
       // default options are shown
-      pages: "build",
-      assets: "build",
+      pages: "docs",
+      assets: "docs",
       fallback: null,
     }),
     // ...
