@@ -1,9 +1,17 @@
+<script>
+  import { base } from "$app/paths";
+</script>
+
 <nav class="bg-darker py-4 px-6 sticky top-0 z-50 border-b border-gray-800">
   <div class="max-w-7xl mx-auto flex justify-between items-center">
     <div class="flex items-center space-x-8">
       <a href="#" class="flex items-center">
         <div class="w-16 h-16 flex items-center justify-center">
-          <img src="/favicon-white.webp" alt="PRO AM LIVE TV logo" class="" />
+          <img
+            src="{base}/favicon-white.webp"
+            alt="PRO AM LIVE TV logo"
+            class=""
+          />
         </div>
         <span class="ml-2 font-bold text-xl hidden md:block"
           >PRO AM LIVE TV</span

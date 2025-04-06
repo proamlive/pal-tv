@@ -1,10 +1,18 @@
+<script>
+  import { base } from "$app/paths";
+</script>
+
 <footer class="bg-darker mt-16 py-12 px-6 border-t border-gray-800">
   <div class="max-w-7xl mx-auto">
     <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
       <div>
         <div class="flex items-center mb-4">
           <div class="w-12 h-12 flex items-center justify-center">
-            <img src="/favicon-white.webp" alt="PRO AM LIVE TV logo" class="" />
+            <img
+              src="{base}/favicon-white.webp"
+              alt="PRO AM LIVE TV logo"
+              class=""
+            />
           </div>
 
           <span class="ml-2 font-bold">PRO AM LIVE TV</span>
