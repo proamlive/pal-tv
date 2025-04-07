@@ -1,9 +1,13 @@
+<script>
+  import { base } from "$app/paths";
+</script>
+
 <section class="relative">
   <div class="w-full h-96 md:h-[32rem] bg-gray-900 overflow-hidden">
     <img
-      src="https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+      src="{base}/hero.jpg"
       alt="Esports team competing"
-      class="w-full h-full object-cover opacity-70"
+      class="w-full h-full object-cover object-center opacity-70"
     />
   </div>
 
