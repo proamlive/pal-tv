@@ -77,7 +77,7 @@
         <h3 class="font-medium mb-1">
           High School Esports: Season 3 Highlights
         </h3>
-        <p class="text-gray-400 text-sm mb-2">MoC TV Productions</p>
+        <p class="text-gray-400 text-sm mb-2">PAL TV Productions</p>
         <div class="flex justify-between text-xs text-gray-400">
           <span>32.1K views</span>
           <span>1 week ago</span>

@@ -73,7 +73,7 @@
     <div class="relative pt-2">
       <input
         type="text"
-        placeholder="Search MoC TV..."
+        placeholder="Search PAL TV..."
         class="search-input bg-gray-800 rounded-full py-2 px-4 pl-10 text-sm w-full focus:outline-none"
       />
       <i class="fas fa-search absolute left-3 top-4 text-gray-400"></i>

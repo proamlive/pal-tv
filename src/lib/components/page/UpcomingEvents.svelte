@@ -23,8 +23,8 @@
           </div>
         </div>
         <p class="text-gray-300 text-sm mb-4">
-          Registration begins for the MoC TV Summer Esports League featuring
-          Valorant, Rocket League, and more.
+          Registration begins for the Mindset of Champions Summer Esports League
+          featuring Valorant, Rocket League, and more.
         </p>
         <button class="text-primary text-sm font-medium flex items-center">
           <i class="fas fa-plus mr-1"></i> Add to Calendar
