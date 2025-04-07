@@ -11,7 +11,7 @@
     >
       <div class="relative">
         <img
-          src="https://images.unsplash.com/photo-1511512578047-dfb2674366a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+          src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwooderice.com%2Fwp-content%2Fuploads%2F2018%2F04%2Fwallo267.png&f=1&nofb=1&ipt=0b966105b0b6b481f5de6f5db8e513ebbae11301800277f398fc72998bbf6a98&ipo=images"
           alt="Show thumbnail"
           class="w-full h-48 object-cover"
         />
@@ -25,7 +25,7 @@
       </div>
       <div class="p-4">
         <p class="text-gray-400 text-sm mb-3">
-          Join host DJ Kicks as he interviews rising stars in the esports scene
+          Join host Wallo267 as he interviews rising stars in the esports scene
           and breaks down the latest strategies.
         </p>
         <button

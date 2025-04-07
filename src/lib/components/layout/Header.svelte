@@ -2,7 +2,9 @@
   import { base } from "$app/paths";
 </script>
 
-<nav class="bg-darker py-4 px-6 sticky top-0 z-50 border-b border-gray-800">
+<nav
+  class="bg-darker text-light py-4 px-6 sticky top-0 z-50 border-b border-gray-800"
+>
   <div class="max-w-7xl mx-auto flex justify-between items-center">
     <div class="flex items-center space-x-8">
       <a href="#" class="flex items-center">
@@ -24,6 +26,7 @@
         <a href="#" class="nav-link">Shows</a>
         <a href="#" class="nav-link">Workshops</a>
         <a href="#" class="nav-link">Community</a>
+        <a href="#" class="nav-link">Donate</a>
       </div>
     </div>
 
@@ -37,15 +40,15 @@
         <i class="fas fa-search absolute left-3 top-2.5 text-gray-400"></i>
       </div>
       <button
-        class="bg-primary hover:bg-purple-700 text-white px-4 py-2 rounded-full text-sm font-medium hidden md:block"
+        class="bg-primary hover:bg-purple-700 text-light px-4 py-2 rounded-full text-sm font-medium hidden md:block"
       >
         Join the League
       </button>
-      <button
-        class="bg-secondary hover:bg-pink-700 text-white px-4 py-2 rounded-full text-sm font-medium"
+      <!-- <button
+        class="bg-primary text-light hover:bg-secondary px-4 py-2 text-md font-medium"
       >
         Donate
-      </button>
+      </button> -->
       <a
         href="#"
         class="w-8 h-8 rounded-full bg-gray-700 flex items-center justify-center"

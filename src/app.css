@@ -6,19 +6,18 @@
 @plugin '@tailwindcss/typography';
 
 @theme {
-  --color-primary: #6c63ff;
-  --color-secondary: #ff6584;
-  --color-dark: #121826;
-  --color-darker: #0d1117;
+  --color-primary: #bf0707;
+  --color-secondary: #40f8f8;
+  --color-dark: #121212;
+  --color-darker: #0d0d0d;
   --color-light: #f8f9fa;
 
   --font-body: Inter, sans-serif;
 }
 
 @layer base {
-  html,
   body {
-    @apply text-light;
+    @apply bg-darker text-light;
   }
 }
 

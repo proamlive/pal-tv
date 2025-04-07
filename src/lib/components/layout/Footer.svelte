@@ -2,8 +2,8 @@
   import { base } from "$app/paths";
 </script>
 
-<footer class="bg-darker mt-16 py-12 px-6 border-t border-gray-800">
-  <div class="max-w-7xl mx-auto">
+<footer class="bg-black mt-16 py-12 px-6 border-t border-gray-800">
+  <div class="max-w- 7xl mx-auto">
     <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
       <div>
         <div class="flex items-center mb-4">

@@ -4,6 +4,9 @@ const config = {
   kit: {
     adapter: adapter(),
   },
+  vitePlugin: {
+    inspector: true,
+  },
 };
 
 export default config;
