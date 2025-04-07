@@ -1,3 +1,7 @@
+<script>
+  import { base } from "$app/paths";
+</script>
+
 <section class="mt-8">
   <div class="flex justify-between items-center mb-4">
     <h2 class="text-xl font-bold">Trending Now</h2>
@@ -13,7 +17,7 @@
     >
       <div class="relative">
         <img
-          src="https://images.unsplash.com/photo-1593508512255-86ab42a8e620?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2078&q=80"
+          src="{base}/dbfz.jpg"
           alt="Video thumbnail"
           class="w-full h-40 object-cover"
         />
@@ -34,7 +38,7 @@
       </div>
       <div class="p-4">
         <h3 class="font-medium mb-1">
-          From Bronze to Gold: My Rocket League Journey
+          From Bronze to Gold: Our Dragon Ball FighterZ Journey
         </h3>
         <p class="text-gray-400 text-sm mb-2">Marcus "Ace" Johnson</p>
         <div class="flex justify-between text-xs text-gray-400">
@@ -50,7 +54,7 @@
     >
       <div class="relative">
         <img
-          src="https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+          src="{base}/hs.jpg"
           alt="Video thumbnail"
           class="w-full h-40 object-cover"
         />
@@ -87,7 +91,7 @@
     >
       <div class="relative">
         <img
-          src="https://images.unsplash.com/photo-1546410531-bb4caa6b424d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80"
+          src="{base}/mc.jpg"
           alt="Video thumbnail"
           class="w-full h-40 object-cover"
         />

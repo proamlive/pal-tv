@@ -1,3 +1,7 @@
+<script>
+  import { base } from "$app/paths";
+</script>
+
 <section class="mt-12">
   <div class="flex justify-between items-center mb-4">
     <h2 class="text-xl font-bold">Featured Shows</h2>
@@ -73,7 +77,7 @@
     >
       <div class="relative">
         <img
-          src="https://images.unsplash.com/photo-1541178735493-479c1a27ed24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80"
+          src="{base}/mindset.jpg"
           alt="Show thumbnail"
           class="w-full h-48 object-cover"
         />
